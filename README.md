@@ -1,6 +1,6 @@
 # simple-react-notes-app
-Simple Single Page Application in React to add and delete Notes using Materialize CSS without Database
+Simple Single Page Application in ***React*** to add and delete ***Notes*** using ***Materialize CSS***
 
-cd simple-react-notes-app
+cd ***simple-react-notes-app***
 
-npm start
+***npm start***
